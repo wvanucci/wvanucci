@@ -1,5 +1,5 @@
 ## Bem-Vindo
-Olá, eu sou Wilson Vanucci, sou formado em Física com mestrado em Ensino de Física, estou em transicão de carreira para área de tenologia, atualmente estou realizando BootCamps na DIO e realizando cursos de linguagem Python.
+Olá, eu sou Wilson Vanucci, sou formado em Física com mestrado em Ensino de Física, tenho experiência em programação Python, SQL e Power BI. Aqui você vai encontrar documentos de aprendizagem, exercícios e projetos de aprendizagem. 
 
 <img align="right" alt="GIF" src="https://github.com/wvanucci/wvanucci/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -11,9 +11,15 @@ Olá, eu sou Wilson Vanucci, sou formado em Física com mestrado em Ensino de F�
 
 :computer: **Habilidades**
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/Windows-87CEFA?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Vscode](https://img.shields.io/badge/Vscode-ADD8E6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 :books: **GitHub Status**
 
